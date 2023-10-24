@@ -1,11 +1,15 @@
-h1 {
+body {
+    
+}
+
+#titulo{
     font-size: 30px;
     text-align: center;
     color: rgb(160, 48, 48);
 }
 
 
-p {
+.texto{
     text-align: center;
     color:red;
     font-size: 20px;
