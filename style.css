@@ -1,17 +1,16 @@
+
 body {
     background-color:hsla(350, 100%, 88%, 0.592);
     
 }
-
-#titulo{
+#título {
     font-size: 30px;
     text-align: center;
-    color:#DC143C;
+    color: rgb(83, 5, 49);
 }
-
-
-.texto{
+.texto {
     text-align: center;
-    color:#C71585;
+    color: rgb(226, 43, 137);
     font-size: 20px;
 }
+
