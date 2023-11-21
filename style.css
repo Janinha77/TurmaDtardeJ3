@@ -20,4 +20,8 @@ body {
     padding: 10px;;
     margin: 10px;
 }
+.banner {
+    background-image: linear-gradient(rgb(247, 185, 205));
+    color: rgb(241, 40, 168);
+}
 
