@@ -20,10 +20,7 @@ body {
     margin: 10px;
     display: block;
 }
-.banner {
-    background-image: linear-gradient(rgb(247, 185, 205));
-    color: rgb(241, 40, 168);
-}
+
 .titulo {
     background-image: linear-gradient(#df0fd535,#de9fdb);
     color: white;
