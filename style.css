@@ -16,9 +16,9 @@ body {
 #banner {
     background-color: white;
     width: 30%;
-    display:block;
     padding: 10px;
     margin: 10px;
+    display: block;
 }
 .banner {
     background-image: linear-gradient(rgb(247, 185, 205));
