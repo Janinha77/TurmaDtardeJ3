@@ -28,3 +28,6 @@ body {
 .lista {
     color: #df0fd5;
 }
+.banner {
+    display: block;
+}
