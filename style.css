@@ -6,9 +6,9 @@ body {
 header {
     padding: 20px;
     background-color: rgb(236, 6, 113), 159, 188);
-    border-bottom:2px solid white; 
+    border-bottom:2px solid White; 
     font-size: 32px;
-    color: white;
+    color: black;
 }
 #titulo {
     font-size: 30px;
