@@ -44,8 +44,10 @@ header {
     margin: 20px;
     border-radius:10px;
 }
-.cabecalho-Logo{
-    text-align: center
+.cabecalho-imagem {
+    width:10%;
+    height: 10%;
+    text-align: 
 }
 
 
