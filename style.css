@@ -29,10 +29,6 @@ header {
 .lista {
     color: #df0fd5;
 }
-.cabecalho-titulo{
-    color: rgb(74, 3, 40);
-    font-size: 20px;
-}
 #Logo {
     width: 10%;
     height: 10%;
@@ -42,8 +38,10 @@ header {
     border-radius:10px;
 }
 .cabecalho {
+    font-size: 20px;
+    color: black;
     background-color: rgb(235, 168, 206);
-    color: rgb(22, 24, 25);
+    color:;
     display: flex;
     justify-content: space-around;
 
