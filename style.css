@@ -43,7 +43,7 @@ header {
     border-radius:10px;
 }
 .cabecalho {
-    background-color: rgb(102, 41, 76);
+    background-color: rgb(235, 168, 206);
     color: aliceblue;
     display: flex;
     justify-content: space-around;
