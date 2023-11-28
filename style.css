@@ -43,10 +43,13 @@ header {
 }
 .cabecalho {
     background-color: rgb(235, 168, 206);
-    color: aliceblue;
+    color: rgb(22, 24, 25);
     display: flex;
     justify-content: space-around;
 
+}
+.cabecalho-item {
+    display: inline-block;
 }
 
 
