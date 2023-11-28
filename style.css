@@ -4,10 +4,10 @@ body {
     
 }
 header {
-    padding: 20px;
+    padding: 10px;
     background-color: rgb(236, 6, 113), 159, 188);
     border-bottom:2px solid black; 
-    font-size: 32px;
+    font-size: 20px;
     color: black;
 }
 #titulo {
@@ -38,7 +38,7 @@ header {
     font-size: 20px;
 }
 #Logo {
-    width: 15%;
+    width: 10%;
     padding:5px;
     background-color:rgba(255, 6, 238, 0.208);
     margin: 20px;
