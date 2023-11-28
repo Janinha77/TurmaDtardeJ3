@@ -42,9 +42,6 @@ header {
     margin: 20px;
     border-radius:10px;
 }
-.cabecalho-imagem {
-    text-align: center;
-}
 .cabecalho {
     background-color: rgb(102, 41, 76);
     color: aliceblue;
