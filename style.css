@@ -39,15 +39,14 @@ header {
 }
 #Logo {
     width: 10%;
+    height: 10%;
     padding:5px;
     background-color:rgba(255, 6, 238, 0.208);
     margin: 20px;
     border-radius:10px;
 }
 .cabecalho-imagem {
-    width:10%;
-    height: 10%;
-    text-align: 
+    text-align: center;
 }
 
 
