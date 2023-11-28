@@ -3,6 +3,13 @@ body {
     background-color:hsla(350, 100%, 88%, 0.592);
     
 }
+header {
+    padding: 20px;
+    background-color: rgb(236, 6, 113), 159, 188);
+    border-bottom:2px solid white; 
+    font-size: 32px;
+    color: white;
+}
 #titulo {
     font-size: 30px;
     text-align: center;
@@ -12,12 +19,6 @@ body {
     text-align: center;
     color: rgb(226, 43, 137);
     font-size: 20px;
-    
-}
-# banner{
-    width: 30%;
-    padding: 10px;
-    margin: 10px;
 }
 
 .titulo {
