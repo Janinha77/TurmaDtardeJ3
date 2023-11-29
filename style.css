@@ -47,6 +47,7 @@ header {
 }
 .cabecalho-item {
     font-display: inline-block;
+    justify-content: space-around;
 }
 .cabecalho-titulo{
     font-size: 20px;
