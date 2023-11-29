@@ -12,7 +12,6 @@ header {
     display: flex;
     justify-content: space-around;
 
-
 }
 #titulo {
     font-size: 30px;
@@ -43,13 +42,10 @@ header {
 }
 .cabecalho {
     background-color: rgb(235, 168, 206);
-    display: flex;
-    justify-content: space-around;
 
 }
 .cabecalho-item {
     font-display: inline-block;
-    justify-content: space-around;
 }
 .cabecalho-titulo{
     font-size: 20px;
